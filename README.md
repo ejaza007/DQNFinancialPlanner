@@ -10,18 +10,7 @@ The model learns how to maximize savings and minimize debt over a period of 30 y
 
 ---
 
-## Table of Contents
-- [Project Overview](#project-overview)
-- [Key Features](#key-features)
-- [Dependencies](#dependencies)
-- [How to Run](#how-to-run)
-- [Understanding the Code](#understanding-the-code)
-- [Results](#results)
-- [Future Improvements](#future-improvements)
-- [License](#license)
-- [Contributions](#contributions)
 
----
 
 ## Project Overview
 
